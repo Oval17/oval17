@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+- Only have 24 hours Everyday.
+
 <!--
 **Oval17/oval17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
