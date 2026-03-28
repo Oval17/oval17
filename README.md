@@ -2,9 +2,10 @@
 
 **Engineer | I write code (or do I?) | 24hrs is never enough**
 
-SDE at [TELUS Digital AI](https://github.com/telusinternationalai) — May 2025 – Present
+### About Me
 
-**GSoC '24** with [SugarLabs](https://github.com/sugarlabs) — May 2024 – July 2024
+- 📡 **SDE** @ [TELUS Digital AI](https://github.com/telusinternationalai) — May 2025 – Present
+- ⚙️ **GSoC '24** @ [SugarLabs](https://github.com/sugarlabs) — May – Jul 2024
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
