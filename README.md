@@ -4,8 +4,8 @@
 
 ### About Me
 ---
-- 📡 **SDE** @ [TELUS Digital AI](https://github.com/telusinternationalai) — May 2025 – Present
-- ⚙️ **GSoC '24** @ [SugarLabs](https://github.com/sugarlabs) — May – Jul 2024
+- 📡 **SDE** @ [TELUS Digital AI](https://github.com/telusinternationalai) `May 2025 → Present`
+- ⚙️ **GSoC '24** @ [SugarLabs](https://github.com/sugarlabs) `May 2024 → Jul 2024`
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -17,8 +17,10 @@
 
 ### Projects
 ---
-<!-- Add your projects here -->
-
+- 🐾 [Corg-Labs](https://github.com/Corg-Labs) — A collection of C projects; image viewers, file compressors and more
+- 🎨 [konva-drawboard](https://github.com/Oval17/konva-drawboard) — Interactive drawing board with React & Konva.js, pen & eraser tools · [live](https://konva-drawboard.netlify.app/)
+- 🌐 [point-cloud-data-viewer](https://github.com/Oval17/point-cloud-data-viewer) — 3D point cloud visualization built with React, TypeScript & Three.js · [live](https://pcd-viewer.netlify.app/)
+- 🖼️ [stagger-view](https://github.com/Oval17/stagger-view) — Advanced image loading with service worker caching & staggered techniques · [live](https://stagger-view.netlify.app/)
 ### Connect with me
 ---
 [![X](https://img.shields.io/badge/@Oval170-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/Oval170)
