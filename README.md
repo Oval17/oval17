@@ -2,9 +2,10 @@
 
 **Engineer | I write code (or do I?) | 24hrs is never enough**
 
-SDE at [TELUS Digital AI](https://github.com/telusinternationalai) — May 2025 – Present
-
-**GSoC '24** with [SugarLabs](https://github.com/sugarlabs) — May 2024 – July 2024
+### About Me
+---
+- 📡 **SDE** @ [TELUS Digital AI](https://github.com/telusinternationalai) — May 2025 – Present
+- ⚙️ **GSoC '24** @ [SugarLabs](https://github.com/sugarlabs) — May – Jul 2024
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -15,11 +16,11 @@ SDE at [TELUS Digital AI](https://github.com/telusinternationalai) — May 2025 
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
 
 ### Projects
-
+---
 <!-- Add your projects here -->
 
-### Connect
-
+### Connect with me
+---
 [![X](https://img.shields.io/badge/@Oval170-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/Oval170)
 [![YouTube](https://img.shields.io/badge/@ovalcodes-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@ovalcodes)
 [![Instagram](https://img.shields.io/badge/oval.codess-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/oval.codess/)
