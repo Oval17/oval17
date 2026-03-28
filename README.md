@@ -1,18 +1,15 @@
-## Hi there 👋
+# About Me
 
-- Only have 24 hours Everyday.
+<!-- Tell us about yourself here -->
 
-<!--
-**Oval17/oval17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+# Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Add your projects here -->
+
+---
+
+# Social Media
+
+<!-- Add your social media links here -->
