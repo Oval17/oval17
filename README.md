@@ -19,7 +19,7 @@
 ---
 <!-- Add your projects here -->
 
-### Connect
+### Connect with me
 ---
 [![X](https://img.shields.io/badge/@Oval170-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/Oval170)
 [![YouTube](https://img.shields.io/badge/@ovalcodes-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@ovalcodes)
