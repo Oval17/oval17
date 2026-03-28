@@ -14,13 +14,9 @@ SDE at [TELUS Digital AI](https://github.com/telusinternationalai) — May 2025 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
 
----
-
 ### Projects
 
 <!-- Add your projects here -->
-
----
 
 ### Connect
 
