@@ -4,7 +4,7 @@
 
 ## About Me
 
-- 📡 **SDE** @ [TELUS Digital AI](https://github.com/telusinternationalai) `May 2025 → Present`
+- 📡 **SDE** @ [TELUS Digital AI](https://github.com/telusinternationalai) `Jul 2025 → Present`
 - ⚙️ **GSoC '24** @ [SugarLabs](https://github.com/sugarlabs) `May 2024 → Jul 2024`
 
 ## Tech Stack
