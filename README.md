@@ -1,6 +1,6 @@
 # Hi there 👋 I am Anurag (Oval)
 
-**Engineer | I write code (or do I?) | 24hrs is never enough**
+**Engineer | I write code (or do I?) | 24hrs is never enough | Open to Work**
 
 ## About Me
 
@@ -24,7 +24,7 @@
 - 🌐 [point-cloud-data-viewer](https://github.com/Oval17/point-cloud-data-viewer) — 3D point cloud visualization built with React, TypeScript & Three.js · [live](https://pcd-viewer.netlify.app/)
 - 🖼️ [stagger-view](https://github.com/Oval17/stagger-view) — Advanced image loading with service worker caching & staggered techniques · [live](https://stagger-view.netlify.app/)
 
-## Connect with me
+## Connect with me (Open to Work)
 
 [![X](https://img.shields.io/badge/@Oval170-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/Oval170)
 [![YouTube](https://img.shields.io/badge/@ovalcodes-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@ovalcodes)
