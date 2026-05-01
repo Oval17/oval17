@@ -4,8 +4,9 @@
 
 ## About Me
 
+- ⚙️ **GSoC '26** @ [LU](https://github.com/learning-unlimited) `May 2026 → Present`
 - 📡 **SDE Intern** @ [TELUS Digital AI](https://github.com/telusinternationalai) `Jul 2025 → Present`
-- ⚙️ **GSoC '24** @ [SugarLabs](https://github.com/sugarlabs) `May 2024 → Jul 2024`
+- ⚙️ **GSoC '24** @ [SugarLabs](https://github.com/sugarlabs) `May 2024 → August 2024`
 
 ## Tech Stack
 
