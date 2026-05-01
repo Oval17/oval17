@@ -1,4 +1,4 @@
-# Hi there 👋 I am Anurag (Oval)
+# Hi there 👋 I am Anurag Singh
 
 **Engineer | I write code (or do I?) | 24hrs is never enough | Open to Work**
 
