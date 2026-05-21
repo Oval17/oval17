@@ -1,6 +1,6 @@
 # Hi there 👋 I am [Anurag Singh](https://www.ovalele.in/)
 
-**Engineer • I Like to build new things • Open to Work**
+**Engineer • I like to build new things • Open to Work**
 
 ## About Me
 
