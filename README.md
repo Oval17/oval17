@@ -1,6 +1,6 @@
 # Hi there 👋 I am [Anurag Singh](https://www.ovalele.in/)
 
-**Engineer | I write code (or do I?) | 24hrs is never enough | Open to Work**
+**Engineer | I Like to build new things | Open to Work**
 
 ## About Me
 
@@ -28,7 +28,7 @@
 ## Connect with me (Open to Work)
 
 [![Gmail](https://img.shields.io/badge/oval17.contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:oval17.contact@gmail.com)
-[![X](https://img.shields.io/badge/@Oval170-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/Oval170)
-[![YouTube](https://img.shields.io/badge/@ovalcodes-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@ovalcodes)
-[![Instagram](https://img.shields.io/badge/oval.codess-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/oval.codess/)
+[![X](https://img.shields.io/badge/@Oval-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/Oval170)
+[![YouTube](https://img.shields.io/badge/@oval-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@ovalcodes)
+[![Instagram](https://img.shields.io/badge/oval-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/oval.codes/)
 [![GitHub](https://img.shields.io/github/followers/Oval17?label=Follow&style=flat-square&logo=github&logoColor=white)](https://github.com/Oval17)
