@@ -5,7 +5,7 @@
 ## About Me
 
 - 🧉 **SDE 1**  @ [TELUS Digital AI](https://github.com/telusinternationalai) `Jul 2026 → Present`
-- 👾 **Building** @ [Oval Studio](https://github.com/OvalStudio) `Jul 2026 → Present`
+- 👾 **Building** @ [Oval Studio](https://www.ovalele.in/studio) `Jul 2026 → Present`
 - 🪟 **GSoC '26** @ [Learning Unlimited](https://github.com/learning-unlimited) `May 2026 → Aug 2026`
 - 📡 **SDE Intern** @ [TELUS Digital AI](https://github.com/telusinternationalai) `Jul 2025 → Jun 2026`
 - ⚙️ **GSoC '24** @ [SugarLabs](https://github.com/sugarlabs) `May 2024 → Aug 2024`
