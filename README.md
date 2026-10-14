@@ -4,10 +4,10 @@
 
 ## About Me
 
-- 🧉 **SDE 1**  @ [TELUS Digital AI](https://github.com/telusinternationalai) `Jul 2026 → Present`
 - 👾 **Building** @ [Oval Studio](https://www.ovalele.in/studio) `Jul 2026 → Present`
+- 🧉 **MTS 1**  @ [TELUS Digital AI](https://github.com/telusinternationalai) `Jul 2026 → Present`
 - 🪟 **GSoC '26** @ [Learning Unlimited](https://github.com/learning-unlimited) `May 2026 → Aug 2026`
-- 📡 **SDE Intern** @ [TELUS Digital AI](https://github.com/telusinternationalai) `Jul 2025 → Jun 2026`
+- 📡 **MTS Intern** @ [TELUS Digital AI](https://github.com/telusinternationalai) `Jul 2025 → Jun 2026`
 - ⚙️ **GSoC '24** @ [SugarLabs](https://github.com/sugarlabs) `May 2024 → Aug 2024`
 
 ## Tech Stack
@@ -30,10 +30,11 @@
 - 🌐 [point-cloud-data-viewer](https://github.com/Oval17/point-cloud-data-viewer) — 3D point cloud visualization built with React, TypeScript & Three.js · [live](https://pcd-viewer.netlify.app/)
 - 🖼️ [stagger-view](https://github.com/Oval17/stagger-view) — Advanced image loading with service worker caching & staggered techniques · [live](https://stagger-view.netlify.app/)
 
-## Connect with me (Open to Work)
+## Connect with me
 
-[![Gmail](https://img.shields.io/badge/oval17.contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:oval17.contact@gmail.com)
-[![X](https://img.shields.io/badge/@Oval-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/Oval170)
-[![YouTube](https://img.shields.io/badge/@oval-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@ovalcodes)
-[![Instagram](https://img.shields.io/badge/oval-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/oval.codes/)
-[![GitHub](https://img.shields.io/github/followers/Oval17?label=Follow&style=flat-square&logo=github&logoColor=white)](https://github.com/Oval17)
+[![Gmail](https://img.shields.io/badge/Anurag%20Singh-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:oval17.contact@gmail.com)
+[![X](https://img.shields.io/badge/Anurag%20Singh-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/Oval170)
+[![YouTube](https://img.shields.io/badge/Oval%20Codes-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@ovalcodes)
+[![Instagram](https://img.shields.io/badge/Anurag%20Singh-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/oval.codes/)
+[![LinkedIn](https://img.shields.io/badge/-Anurag%20Singh-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anurag-singh-118a3b43a/)
+[![GitHub Followers](https://img.shields.io/github/followers/Oval17?label=Follow&style=flat-square&logo=github&logoColor=white)](https://github.com/Oval17)
