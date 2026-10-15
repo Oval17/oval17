@@ -1,6 +1,6 @@
 # Hi there 👋 I am [Anurag Singh](https://www.ovalele.in/)
 
-**Engineer • I like to build new things**
+**100x Engineer • I like to build new things • Agentic Coding Mostly**
 
 ## About Me
 
