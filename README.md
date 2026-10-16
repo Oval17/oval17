@@ -26,9 +26,9 @@
 - 🎯 [Flutter-Components](https://github.com/Oval17/flutter-design-components) — Flutter Designs : 100 widgets, screens, animations
 - ⨸ [Visual-Math](https://github.com/Oval17/visual-math) — A collection of Python scripts that generate mathematical animation videos using Pillow and FFmpeg 
 - 🐾 [Corg-Labs](https://github.com/Corg-Labs) — A collection of C projects : image viewers, file compressors and more
-- 🎨 [konva-drawboard](https://github.com/Oval17/konva-drawboard) — Interactive drawing board with React & Konva.js, pen & eraser tools · [live](https://konva-drawboard.netlify.app/)
-- 🌐 [point-cloud-data-viewer](https://github.com/Oval17/point-cloud-data-viewer) — 3D point cloud visualization built with React, TypeScript & Three.js · [live](https://pcd-viewer.netlify.app/)
-- 🖼️ [stagger-view](https://github.com/Oval17/stagger-view) — Advanced image loading with service worker caching & staggered techniques · [live](https://stagger-view.netlify.app/)
+- 🎨 [konva-drawboard](https://github.com/Oval17/konva-drawboard) — Interactive drawing board with React & Konva.js, pen & eraser tools · [live]
+- 🌐 [point-cloud-data-viewer](https://github.com/Oval17/point-cloud-data-viewer) — 3D point cloud visualization built with React, TypeScript & Three.js · [live]
+- 🖼️ [stagger-view](https://github.com/Oval17/stagger-view) — Advanced image loading with service worker caching & staggered techniques · [live]
 
 ## Connect with me
 
